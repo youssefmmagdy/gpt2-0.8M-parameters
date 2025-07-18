@@ -62,5 +62,5 @@ This repository contains a PyTorch implementation of a GPT-2-style Transformer m
 
 ---
 
-
-
+## Note By
+I don't have a GPU, so I trained the model with 0.8M parameters only :).
