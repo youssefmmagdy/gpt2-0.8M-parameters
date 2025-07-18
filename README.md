@@ -62,17 +62,5 @@ This repository contains a PyTorch implementation of a GPT-2-style Transformer m
 
 ---
 
-## 📂 Project Structure
 
-```plaintext
-📦gpt2-transformer
- ┣ 📜model.py         # GPT-2 model definition
- ┣ 📜train.py         # Training script
- ┣ 📜config.py        # Hyperparameters and configuration
- ┣ 📜utils.py         # Tokenization and helper utilities
- ┣ 📜README.md        # Project documentation
- ┣ 📜requirements.txt # Dependencies
- ┗ 📂data             # Training text files go here
-    ┗ 📄input.txt     # Example dataset
-```
 
